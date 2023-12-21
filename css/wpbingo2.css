@@ -1,0 +1,78 @@
+@font-face{
+  font-family:wpbingo2;
+  src:url(../fonts/wpbingo2.eot?j548wt);
+  src:url(../fonts/wpbingo2.eot?j548wt#iefix) format("embedded-opentype"),url(../fonts/wpbingo2.ttf?j548wt) format("truetype"),url(../fonts/wpbingo2.woff?j548wt) format("woff"),url(../fonts/wpbingo2.svg?j548wt#wpbingo2) format("svg");
+  font-weight:400;
+  font-style:normal;
+  font-display:block;
+}
+
+[class*=" icon2-"],[class^=icon2-]{
+  font-family:wpbingo2 !important;
+  speak:never;
+  font-style:normal;
+  font-weight:400;
+  font-variant:normal;
+  text-transform:none;
+  line-height:1;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+.icon2-shopping-bag:before{
+  content:"\e904";
+}
+.icon2-shuffle:before{
+  content:"\e900";
+}
+.icon2-cat-food:before{
+  content:"\e90c";
+}
+.icon2-cat-toy:before{
+  content:"\e90d";
+}
+.icon2-dog-bed:before{
+  content:"\e90e";
+}
+.icon2-dog-clothing:before{
+  content:"\e90f";
+}
+.icon2-dog-food:before{
+  content:"\e910";
+}
+.icon2-dog-supplement:before{
+  content:"\e911";
+}
+.icon2-dog-treat:before{
+  content:"\e912";
+}
+.icon2-telephone:before{
+  content:"\e90b";
+}
+.icon2-bird:before{
+  content:"\e902";
+}
+.icon2-cat:before{
+  content:"\e903";
+}
+.icon2-chicken:before{
+  content:"\e905";
+}
+.icon2-dog:before{
+  content:"\e906";
+}
+.icon2-easter-bunny:before{
+  content:"\e907";
+}
+.icon2-fish:before{
+  content:"\e908";
+}
+.icon2-horse-head-outline-facing-the-left:before{
+  content:"\e909";
+}
+.icon2-lizard:before{
+  content:"\e90a";
+}
+.icon2-mail-envelope-open:before{
+  content:"\e901";
+}

@@ -1,0 +1,32 @@
+/* Revolution Slider ---------------------------------------------------------*/
+.elementor-widget-slider_revolution{
+	.slider-3{
+		.tp-bullets.bullet-2{
+			max-width:1440px !important;
+			width:100% !important;
+			margin:0 30px;
+			left:50% !important;
+			@include transform(translateX(-50%) !important);
+			bottom:60px;
+			top:auto !important;
+		}
+	}
+	.slider-2, .slider-7{
+		@include border-radius(10px);
+	}
+}
+.button-slider{
+	position:relative;
+	font-size:14px !important;
+	line-height:45px !important;
+	@media (min-width:$screen-sm){
+		font-size:14px !important;
+		line-height:40px !important;
+	}
+}
+.title-outline-slider{ 
+	-webkit-text-stroke: 2px #fff;
+	@media (max-width:$screen-xs-max){
+		-webkit-text-stroke: 1px #fff;
+	}
+}
